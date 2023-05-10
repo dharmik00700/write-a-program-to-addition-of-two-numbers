@@ -1,2 +1,27 @@
+#include<iostream.h>
 #include<conio.h>
-#include
+void main()
+{
+
+    int n1,n2,total;
+
+    clrscr();
+
+          
+
+     cout<<"enter is number 1";
+
+     cin>>n1;
+
+     cout<<"enter is  number 2";
+
+     cin>>n2;
+
+     total=n1+n2;
+
+     cout<<"total is "<<total<<"\n";
+
+     getch();
+}
+
+ 
